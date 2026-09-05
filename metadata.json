@@ -1,0 +1,6 @@
+{
+  "name": "MedLens — Clinical Information Intelligence",
+  "description": "Transform scattered medical information into clear, structured patient records and clinical timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
